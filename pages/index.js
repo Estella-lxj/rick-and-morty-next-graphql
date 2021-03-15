@@ -122,3 +122,5 @@ export async function getStaticProps() {
     }
   }
 }
+
+// publish = "out"
